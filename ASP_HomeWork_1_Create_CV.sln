@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP_HomeWork_1_Create_CV", "ASP_HomeWork_1_Create_CV\ASP_HomeWork_1_Create_CV.csproj", "{3C53E5E5-A0A5-47BD-A1B9-F2CD937062FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C53E5E5-A0A5-47BD-A1B9-F2CD937062FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C53E5E5-A0A5-47BD-A1B9-F2CD937062FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C53E5E5-A0A5-47BD-A1B9-F2CD937062FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C53E5E5-A0A5-47BD-A1B9-F2CD937062FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08340E14-2C22-4E09-AAEE-6AD619EB3F58}
+	EndGlobalSection
+EndGlobal
